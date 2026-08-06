@@ -1,0 +1,15 @@
+C:\Users\460069\Estrutura-de-Dados\palavras\bin\Debug\net10.0\palavras.exe
+C:\Users\460069\Estrutura-de-Dados\palavras\bin\Debug\net10.0\palavras.deps.json
+C:\Users\460069\Estrutura-de-Dados\palavras\bin\Debug\net10.0\palavras.runtimeconfig.json
+C:\Users\460069\Estrutura-de-Dados\palavras\bin\Debug\net10.0\palavras.dll
+C:\Users\460069\Estrutura-de-Dados\palavras\bin\Debug\net10.0\palavras.pdb
+C:\Users\460069\Estrutura-de-Dados\palavras\obj\Debug\net10.0\palavras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\460069\Estrutura-de-Dados\palavras\obj\Debug\net10.0\palavras.AssemblyInfoInputs.cache
+C:\Users\460069\Estrutura-de-Dados\palavras\obj\Debug\net10.0\palavras.AssemblyInfo.cs
+C:\Users\460069\Estrutura-de-Dados\palavras\obj\Debug\net10.0\palavras.csproj.CoreCompileInputs.cache
+C:\Users\460069\Estrutura-de-Dados\palavras\obj\Debug\net10.0\palavras.sourcelink.json
+C:\Users\460069\Estrutura-de-Dados\palavras\obj\Debug\net10.0\palavras.dll
+C:\Users\460069\Estrutura-de-Dados\palavras\obj\Debug\net10.0\refint\palavras.dll
+C:\Users\460069\Estrutura-de-Dados\palavras\obj\Debug\net10.0\palavras.pdb
+C:\Users\460069\Estrutura-de-Dados\palavras\obj\Debug\net10.0\palavras.genruntimeconfig.cache
+C:\Users\460069\Estrutura-de-Dados\palavras\obj\Debug\net10.0\ref\palavras.dll
