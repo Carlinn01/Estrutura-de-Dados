@@ -1,0 +1,15 @@
+C:\Users\460069\Estrutura-de-Dados\exercicios\ExercicioPalindromo\bin\Debug\net10.0\ExercicioPalindromo.exe
+C:\Users\460069\Estrutura-de-Dados\exercicios\ExercicioPalindromo\bin\Debug\net10.0\ExercicioPalindromo.deps.json
+C:\Users\460069\Estrutura-de-Dados\exercicios\ExercicioPalindromo\bin\Debug\net10.0\ExercicioPalindromo.runtimeconfig.json
+C:\Users\460069\Estrutura-de-Dados\exercicios\ExercicioPalindromo\bin\Debug\net10.0\ExercicioPalindromo.dll
+C:\Users\460069\Estrutura-de-Dados\exercicios\ExercicioPalindromo\bin\Debug\net10.0\ExercicioPalindromo.pdb
+C:\Users\460069\Estrutura-de-Dados\exercicios\ExercicioPalindromo\obj\Debug\net10.0\ExercicioPalindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\460069\Estrutura-de-Dados\exercicios\ExercicioPalindromo\obj\Debug\net10.0\ExercicioPalindromo.AssemblyInfoInputs.cache
+C:\Users\460069\Estrutura-de-Dados\exercicios\ExercicioPalindromo\obj\Debug\net10.0\ExercicioPalindromo.AssemblyInfo.cs
+C:\Users\460069\Estrutura-de-Dados\exercicios\ExercicioPalindromo\obj\Debug\net10.0\ExercicioPalindromo.csproj.CoreCompileInputs.cache
+C:\Users\460069\Estrutura-de-Dados\exercicios\ExercicioPalindromo\obj\Debug\net10.0\ExercicioPalindromo.sourcelink.json
+C:\Users\460069\Estrutura-de-Dados\exercicios\ExercicioPalindromo\obj\Debug\net10.0\ExercicioPalindromo.dll
+C:\Users\460069\Estrutura-de-Dados\exercicios\ExercicioPalindromo\obj\Debug\net10.0\refint\ExercicioPalindromo.dll
+C:\Users\460069\Estrutura-de-Dados\exercicios\ExercicioPalindromo\obj\Debug\net10.0\ExercicioPalindromo.pdb
+C:\Users\460069\Estrutura-de-Dados\exercicios\ExercicioPalindromo\obj\Debug\net10.0\ExercicioPalindromo.genruntimeconfig.cache
+C:\Users\460069\Estrutura-de-Dados\exercicios\ExercicioPalindromo\obj\Debug\net10.0\ref\ExercicioPalindromo.dll
