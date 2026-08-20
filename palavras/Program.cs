@@ -1,4 +1,6 @@
 ﻿using System.Numerics;
+using System.Globalization;
+
 
 string firstName = "carlos";
 string lastName = "oliveira";
@@ -50,3 +52,22 @@ for(int i = 0; i < myArray.Length; i++) {
 
 Console.WriteLine("Totalizador = " + total);
 Console.WriteLine("Contagem = " + counter);
+
+
+// Aula 04
+
+string[] months = new string[12];
+
+for(int i = 1; i <= 12; i++){
+    DateTime firstDay = new DateTime(DateTime.Now.Year, i, 1);
+
+     DateTime lastDay = firstDay.AddMonths(1).AddDays(-1);
+
+    string monthName = firstDay.ToString("MMM", System.Globalization.CultureInfo.InvariantCulture);
+
+    months[i - 1] = monthName;
+}
+
+foreach (string monthName in months){
+     Console.WriteLine($"---> {monthName}");
+}

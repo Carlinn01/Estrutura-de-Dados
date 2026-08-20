@@ -43,3 +43,5 @@ for (int i = 0; i < qtdImpares; i++)
 {
     Console.WriteLine(impares[i]);
 }
+
+
